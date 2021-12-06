@@ -9,3 +9,8 @@ Identifying and avoiding that types of applicants(human) loan.
 
 Yuvan 
 
+
+
+
+##### Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
+
