@@ -1,0 +1,18 @@
+
+id                               primaryKey
+loan_amnt                        total loan amount
+funded_amnt                      funded amount
+funded_amnt_inv                  funded amount by investors
+term                             term of payment
+int_rate                         interest
+installment                      insstallment
+grade                            grade of loan occupier
+sub_grade                        sub grade of loan occupier
+emp_length                       Loan buyer employee exp 
+home_ownership                   type of house owner ship
+annual_inc                       annual income of an employee
+verification_status              verification status of loan
+issue_d                          loan issued date
+loan_status                      loan status
+purpose                          purpose of the loan
+inq_last_6mths                   installment for last 6 months
