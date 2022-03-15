@@ -9,7 +9,6 @@ Identifying and avoiding that types of applicants(human) loan.
 
 Yuvan 
 
-Pradeep
 
 
 
